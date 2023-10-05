@@ -5,7 +5,8 @@ Selected fair-use licenced pdf documents generated with a variety of tools.
 PDF documents picked from the 0000 container of the
 CC-MAIN-2021-31 project by Common Crawl.
 
-*Terns of use for commoncrawl*: https://commoncrawl.org/terms-of-use
+#### Terms of use for commoncrawl 
+https://commoncrawl.org/terms-of-use
 
 #### Download the corpus
 https://downloads.digitalcorpora.org/corpora/files/CC-MAIN-2021-31-PDF-UNTRUNCATED/zipfiles/0000-0999/
