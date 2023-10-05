@@ -20,7 +20,7 @@ https://downloads.digitalcorpora.org/corpora/files/CC-MAIN-2021-31-PDF-UNTRUNCAT
 - canva
 - chromium
 - pages macos quartz pdfcontent
-- word macos xquartz pdfcontent
+- word macos quartz pdfcontent
 - word 2016 standalone
 - word adobepdf maker
 - indesign adobe pdf library 15
